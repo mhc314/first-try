@@ -15,3 +15,6 @@ Thumbs.db
 desktop.ini
 .vscode/
 .idea/
+
+# Local portable development tools and their caches
+tools/
