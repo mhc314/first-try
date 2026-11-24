@@ -6,7 +6,7 @@
 
 ## 下载试玩版
 
-在 [GitHub Releases](https://github.com/mhc314/photography-puzzle-game/releases) 下载最新的 Windows 64 位试玩压缩包，解压后双击 `How-to-photograph.exe` 即可游玩，无需安装 Godot。请将游戏放在有写入权限的文件夹中。版本变化见 [更新日志](CHANGELOG.md)。
+在 [GitHub Releases](https://github.com/mhc314/first-try/releases) 下载最新的 Windows 64 位试玩压缩包，解压后双击 `How-to-photograph.exe` 即可游玩，无需安装 Godot。请将游戏放在有写入权限的文件夹中。版本变化见 [更新日志](CHANGELOG.md)。
 
 ## 首个可玩版本
 
