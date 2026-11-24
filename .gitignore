@@ -2,7 +2,7 @@
 .godot/
 .import/
 export.cfg
-export_presets.cfg
+export_credentials.cfg
 
 # Mono / .NET generated files
 .mono/
@@ -18,3 +18,8 @@ desktop.ini
 
 # Local portable development tools and their caches
 tools/
+dist/
+
+# Player data when running the project locally
+/GameProgress/
+/Photos/
